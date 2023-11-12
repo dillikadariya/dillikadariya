@@ -1,23 +1,14 @@
-- 👋 Hi, I’m @dillikadariya and I am student pursuing a BSC in Applied Mathematics with a minor in Computer Science at the University of Central Arkansas. I thrive on challenges and enjoy exploring the intersection of math and technology. I am committed to academic excellence, actively engage in research projects, take on leadership roles, and consistently seek opportunities for personal and professional growth.
-- 🌱 
-- 💞️ I’m eager to learn from others and collaborate on projects involving mathematics and data science.
-- 📫 You can reach me via
+   Hi there! 👋
+I’m @dillikadariya and I am student pursuing a BSC in Applied Mathematics with a minor in Computer Science at the University of Central Arkansas. I thrive on challenges and enjoy exploring the intersection of math and technology. I am committed to academic excellence, actively engage in research projects, take on leadership roles, and consistently seek opportunities for personal and professional growth.
 
-- # Hi there! 👋
+  🚀 Quick Overview
 
-## 🚀 Quick Overview
-
-- 🎓 Studying Applied Mathematics with a Minor in Computer Science at [Your University].
-- 🌱 Actively involved in research projects and leadership roles.
+- 🎓 Studying Applied Mathematics with a Minor in Computer Science at the University of Central Arkansas.
+- 🎓 Research Fellow at the Arkansas Center for Research in Economics.
+- 🌟 President of Active Minds at UCA.
 - 🖥️ Proficient in Microsoft Office and Google Workspace.
 - 💻 I’m currently learning C++, Python, and data science skills, with a hunger to learn more.
-
- 🔧 Skills
-
-- **Project Management:** Successfully managed projects from inception to completion.
-- **Risk Management:** Skilled at identifying and mitigating potential project risks.
-- **Programming:** Familiar with C++ and Python, always eager to expand coding skills.
-- **Office Assistance:** Experienced in providing administrative support.
+- 💞️ Eager to learn from others and collaborate on projects involving mathematics and data science.
 
  🌐 Connect with Me
 
