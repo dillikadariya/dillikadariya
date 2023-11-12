@@ -17,7 +17,7 @@ I’m @dillikadariya and I am student pursuing a BSC in Applied Mathematics with
 - 
  🌟 Goals
 
-Eager to learn new skills and contribute to innovative projects. I'm actively seeking opportunities to apply my mathematical knowledge and programming skills in real-world scenarios.
+Eager to learn new skills and contribute to innovative projects. I'm actively seeking internship opportunities to apply my mathematical knowledge and programming skills in real-world scenarios.
 
  🌈 Fun Facts
 
