@@ -22,7 +22,6 @@ Eager to learn new skills and contribute to innovative projects. I'm actively se
  🌈 Fun Facts
 
 - I love singing and playing guitar.
-- I'm currently reading 48 Laws of Power.
 - Ask me about Economics, Physics, and Math.
 
 Let's connect and explore the exciting possibilities in the world of applied math and computer science! 🌍
