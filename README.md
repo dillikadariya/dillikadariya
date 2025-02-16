@@ -13,7 +13,7 @@ I’m @dillikadariya and I am student pursuing a BSC in Applied Mathematics with
  🌐 Connect with Me
 
 - Linkedin- https://www.linkedin.com/in/dilliramkadariya/
-- 
+  
  🌟 Goals
 
 Eager to learn new skills and contribute to data science projects. I'm actively seeking opportunities to apply my mathematical knowledge and machine learning skills in real-world.
