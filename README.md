@@ -7,7 +7,7 @@ I’m @dillikadariya and I am student pursuing a BSC in Applied Mathematics with
 - 🎓 Research Fellow at the Arkansas Center for Research in Economics.
 - 🌟 President of Active Minds at UCA.
 - 🖥️ Proficient in Microsoft Office and Google Workspace.
-- 💻 Currently developing my expertise in C++, Python, and data science skills, with a hunger to learn more.
+- 💻 Currently developing my expertise in Python, SQL, Machine learning, and data science skills.
 - 💞️ Eager to learn from others and collaborate on projects involving mathematics and data science.
 
  🌐 Connect with Me
@@ -16,15 +16,9 @@ I’m @dillikadariya and I am student pursuing a BSC in Applied Mathematics with
 - 
  🌟 Goals
 
-Eager to learn new skills and contribute to innovative projects. I'm actively seeking full time opportunities to apply my mathematical knowledge and programming skills in real-world.
-
- 🌈 Fun Facts
-
-- I love singing and playing guitar.
-- Ask me about Economics, Physics, Data Science and Math.
+Eager to learn new skills and contribute to data science projects. I'm actively seeking opportunities to apply my mathematical knowledge and machine learning skills in real-world.
 
 Let's connect and explore the exciting possibilities in the world of applied math and computer science! 🌍
-
 
 <!---
 dillikadariya/dillikadariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
