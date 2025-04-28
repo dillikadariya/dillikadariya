@@ -1,7 +1,7 @@
    Hi there! 👋
 I’m @dillikadariya and I am senior student pursuing a BS in Applied Mathematics with a minor in Computer Science at the University of Central Arkansas. I thrive on challenges and enjoy exploring the intersection of math and technology. I am committed to academic excellence, actively engage in research projects, take on leadership roles, and consistently seek opportunities for personal and professional growth.
 
-  🚀 Quick Overview
+   Quick Overview
 
 - 🎓 Studying Applied Mathematics with a Minor in Computer Science at the University of Central Arkansas.
 - 🎓 Research Fellow at the Arkansas Center for Research in Economics.
