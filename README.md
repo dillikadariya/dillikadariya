@@ -5,10 +5,15 @@ I’m an RPA and workflow automation developer with a background in applied math
 My work has taken me from mathematics, quantivative research, and data science to building and supporting an institutional automation program in healthcare. I work primarily with UiPath, Microsoft Power Automate, n8n, SQL, Python, and data-driven automation. I’m particularly interested in process improvement, workflow design, machine learning, and responsible ways to use AI in automation.
 
 What I Work With
+
 🤖 RPA & Automation: UiPath, Microsoft Power Automate, n8n
+
 🗄️ Data & Databases: SQL, MySQL, Oracle, MS SQL
+
 🐍 Programming: Python, R
+
 📊 Data & Analytics: pandas, NumPy, scikit-learn, MATLAB, Tableau, Excel
+
 🧠 Interests: Workflow automation, machine learning, process analysis, AI-enabled automation, and problem solving
 
  🌐 Connect with Me
