@@ -1,24 +1,19 @@
-   Hi there! 👋
-I’m @dillikadariya and I am senior student pursuing a BS in Applied Mathematics with a minor in Computer Science at the University of Central Arkansas. I thrive on challenges and enjoy exploring the intersection of math and technology. I am committed to academic excellence, actively engage in research projects, take on leadership roles, and consistently seek opportunities for personal and professional growth.
+Hi, I'm Dilliram 👋
 
-   Quick Overview
+I’m an RPA and workflow automation developer with a background in applied mathematics, computer science, and quantitative research. I enjoy understanding how people work, where repetitive processes create frustration, and how technology can make those processes simpler and more reliable.
 
-- 🎓 Studying Applied Mathematics with a Minor in Computer Science at the University of Central Arkansas.
-- 🎓 Research Fellow at the Arkansas Center for Research in Economics.
-- 🌟 President of Active Minds at UCA.
-- 🖥️ Proficient in Microsoft Office and Google Workspace.
-- 💻 Currently developing my expertise in Python, R, SQL, Machine learning, and data science skills.
-- 💞️ Eager to learn from others and collaborate on projects involving mathematics and data science.
+My work has taken me from mathematics, quantivative research, and data science to building and supporting an institutional automation program in healthcare. I work primarily with UiPath, Microsoft Power Automate, n8n, SQL, Python, and data-driven automation. I’m particularly interested in process improvement, workflow design, machine learning, and responsible ways to use AI in automation.
+
+What I Work With
+🤖 RPA & Automation: UiPath, Microsoft Power Automate, n8n
+🗄️ Data & Databases: SQL, MySQL, Oracle, MS SQL
+🐍 Programming: Python, R
+📊 Data & Analytics: pandas, NumPy, scikit-learn, MATLAB, Tableau, Excel
+🧠 Interests: Workflow automation, machine learning, process analysis, AI-enabled automation, and problem solving
 
  🌐 Connect with Me
 
 - Linkedin- https://www.linkedin.com/in/dilliramkadariya/
-  
- 🌟 Goals
-
-Eager to learn new skills and contribute to data science projects. I'm actively seeking opportunities to apply my mathematical knowledge and machine learning skills in real-world.
-
-Let's connect and explore the exciting possibilities in the world of applied math and computer science! 🌍
 
 <!---
 dillikadariya/dillikadariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
